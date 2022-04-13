@@ -1,0 +1,226 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "ST Morpheo Nucleo144 shield"
+Date "2022-03-30"
+Rev "A"
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+NoConn ~ 7175 4400
+NoConn ~ 7175 4300
+NoConn ~ 7175 4200
+NoConn ~ 7175 4100
+NoConn ~ 7175 4000
+NoConn ~ 7175 3900
+NoConn ~ 7175 3800
+NoConn ~ 7175 3700
+NoConn ~ 7175 2600
+NoConn ~ 7175 2300
+NoConn ~ 7175 2000
+NoConn ~ 7175 1900
+NoConn ~ 7175 1800
+NoConn ~ 7175 1200
+NoConn ~ 5875 4300
+NoConn ~ 5875 4200
+NoConn ~ 5875 4100
+NoConn ~ 5875 4000
+NoConn ~ 5875 3800
+NoConn ~ 5875 3600
+NoConn ~ 5875 3500
+NoConn ~ 5875 3300
+NoConn ~ 5875 3200
+NoConn ~ 5875 3100
+NoConn ~ 5875 3000
+NoConn ~ 5875 2500
+NoConn ~ 5875 2300
+NoConn ~ 5875 2000
+NoConn ~ 5875 1900
+NoConn ~ 5875 1700
+NoConn ~ 5875 1600
+NoConn ~ 5875 1500
+NoConn ~ 5875 1300
+NoConn ~ 5875 1200
+NoConn ~ 7175 2200
+NoConn ~ 7175 1400
+NoConn ~ 7175 1500
+NoConn ~ 7175 1600
+NoConn ~ 7175 1700
+NoConn ~ 5875 1800
+NoConn ~ 5875 1400
+NoConn ~ 5875 2400
+NoConn ~ 7175 2400
+NoConn ~ 7175 2500
+NoConn ~ 7175 2700
+NoConn ~ 7175 2800
+NoConn ~ 7175 2900
+NoConn ~ 7175 3000
+NoConn ~ 7175 3100
+NoConn ~ 7175 3200
+NoConn ~ 7175 3300
+NoConn ~ 7175 3400
+NoConn ~ 7175 3500
+NoConn ~ 7175 3600
+NoConn ~ 5875 2600
+NoConn ~ 5875 2700
+NoConn ~ 5875 2800
+NoConn ~ 5875 2900
+NoConn ~ 5875 3400
+NoConn ~ 5875 3700
+NoConn ~ 5875 3900
+NoConn ~ 5875 2200
+NoConn ~ 5875 2100
+NoConn ~ 5875 4400
+NoConn ~ 7175 2100
+NoConn ~ 7175 1300
+$Comp
+L _connectors:ST_Nucleo144_F429ZI_Morpho U1
+U 2 1 57E00191
+P 6525 2800
+F 0 "U1" H 6275 4650 60  0000 C CNN
+F 1 "ST_Nucleo144_F429ZI_Morpho" V 6525 2800 60  0000 C CNN
+F 2 "_connectors:ST_Nucleo144_F429ZI_Morpho" H 6525 3150 60  0001 C CNN
+F 3 "" H 6525 3150 60  0000 C CNN
+	2    6525 2800
+	1    0    0    -1  
+$EndComp
+NoConn ~ 2700 4350
+NoConn ~ 2700 4250
+NoConn ~ 2700 4150
+NoConn ~ 2700 4050
+NoConn ~ 2700 3950
+NoConn ~ 2700 3850
+NoConn ~ 2700 3550
+NoConn ~ 2700 3450
+NoConn ~ 2700 2950
+NoConn ~ 2700 1950
+NoConn ~ 2700 1850
+NoConn ~ 2700 1750
+NoConn ~ 2700 1450
+NoConn ~ 2700 1250
+NoConn ~ 2700 1650
+NoConn ~ 2700 2250
+NoConn ~ 2700 2450
+NoConn ~ 2700 2550
+NoConn ~ 2700 2650
+NoConn ~ 2700 2750
+NoConn ~ 2700 2850
+NoConn ~ 2700 3050
+NoConn ~ 2700 3150
+NoConn ~ 2700 3250
+NoConn ~ 2700 3350
+NoConn ~ 2700 3650
+NoConn ~ 2700 3750
+NoConn ~ 2700 4450
+$Comp
+L _connectors:ST_Nucleo144_F429ZI_Morpho U1
+U 1 1 57E0016C
+P 2050 2850
+F 0 "U1" H 1800 4700 60  0000 C CNN
+F 1 "ST_Nucleo144_F429ZI_Morpho" V 2050 2850 60  0000 C CNN
+F 2 "_connectors:ST_Nucleo144_F429ZI_Morpho" H 2050 3200 60  0001 C CNN
+F 3 "" H 2050 3200 60  0000 C CNN
+	1    2050 2850
+	1    0    0    -1  
+$EndComp
+NoConn ~ 1400 4350
+NoConn ~ 1400 4250
+NoConn ~ 1400 4150
+NoConn ~ 1400 4050
+NoConn ~ 1400 3950
+NoConn ~ 1400 3850
+NoConn ~ 1400 3550
+NoConn ~ 1400 3250
+NoConn ~ 1400 3150
+NoConn ~ 1400 2050
+NoConn ~ 1400 1850
+NoConn ~ 1400 1750
+NoConn ~ 1400 1650
+NoConn ~ 1400 1550
+NoConn ~ 1400 1250
+NoConn ~ 1400 1450
+NoConn ~ 1400 1350
+NoConn ~ 1400 1950
+NoConn ~ 1400 2150
+NoConn ~ 1400 2250
+NoConn ~ 1400 2350
+NoConn ~ 1400 2450
+NoConn ~ 1400 2550
+NoConn ~ 1400 2650
+NoConn ~ 1400 2750
+NoConn ~ 1400 2850
+NoConn ~ 1400 2950
+NoConn ~ 1400 3050
+NoConn ~ 1400 3350
+NoConn ~ 1400 3450
+NoConn ~ 1400 3650
+NoConn ~ 1400 3750
+Text Label 1400 1150 2    50   ~ 0
+PC10
+Text Label 2700 1150 0    50   ~ 0
+PC11
+Text Label 5875 1100 2    50   ~ 0
+PC9
+Text Label 7175 1100 0    50   ~ 0
+PC8
+Text Label 2700 4550 0    50   ~ 0
+PG11
+Text Label 1400 4550 2    50   ~ 0
+PD9
+Text Label 5875 4500 2    50   ~ 0
+PG4
+Text Label 7175 4500 0    50   ~ 0
+PG6
+$Comp
+L _connectors:CONN_02X08 CN8
+U 1 1 625B7222
+P 3375 1775
+F 0 "CN8" H 3375 2340 50  0000 C CNN
+F 1 "CONN_02X08" H 3375 2249 50  0000 C CNN
+F 2 "_connectors:PinHeader_2x08_P2.54mm_Vertical_Bottom_Pad_Only" H 3375 2256 60  0001 C CNN
+F 3 "" H 3375 575 60  0000 C CNN
+	1    3375 1775
+	1    0    0    -1  
+$EndComp
+$Comp
+L _connectors:CONN_02X10 CN7
+U 1 1 625B80D0
+P 5150 1675
+F 0 "CN7" H 5150 2415 50  0000 C CNN
+F 1 "CONN_02X10" H 5150 2324 50  0000 C CNN
+F 2 "_connectors:PinHeader_2x10_P2.54mm_Vertical_Bottom_Pad_only" H 5150 2331 60  0001 C CNN
+F 3 "" H 5150 475 60  0001 C CNN
+	1    5150 1675
+	1    0    0    -1  
+$EndComp
+$Comp
+L _connectors:CONN_02X15 CN9
+U 1 1 625B923B
+P 3400 2875
+F 0 "CN9" H 3400 1750 50  0000 C CNN
+F 1 "CONN_02X15" H 3400 1850 50  0000 C CNN
+F 2 "_connectors:PinHeader_2x15_P2.54mm_Vertical_Bottom_pad_only" H 3400 3556 60  0001 C CNN
+F 3 "" H 3400 1675 60  0001 C CNN
+	1    3400 2875
+	1    0    0    -1  
+$EndComp
+$Comp
+L _connectors:CONN_02X17 CN10
+U 1 1 625BABFD
+P 5150 2675
+F 0 "CN10" H 5125 1400 50  0000 C CNN
+F 1 "CONN_02X17" H 5150 1500 50  0000 C CNN
+F 2 "_connectors:PinHeader_2x17_P2.54mm_Vertical_Bottom_Pad_only" H 5150 3356 60  0001 C CNN
+F 3 "" H 5150 1475 60  0001 C CNN
+	1    5150 2675
+	1    0    0    -1  
+$EndComp
+NoConn ~ 2700 2050
+NoConn ~ 2700 2150
+$EndSCHEMATC
